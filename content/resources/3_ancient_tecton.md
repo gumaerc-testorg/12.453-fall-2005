@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 920377d2-3673-e7cb-1182-3b29cb3737a8
 resourcetype: Document
 title: 3_ancient_tecton.pdf
 uid: 063363c4-f4a9-b13c-3524-4e583bc1e8f7

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 920377d2-3673-e7cb-1182-3b29cb3737a8
 resourcetype: Document
 title: 4_darcs.pdf
 uid: ae830b45-87fc-7e29-429b-fa0144a88619

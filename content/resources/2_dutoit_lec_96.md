@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 44730d06-ca55-2b8e-d91a-bdbe80b52aa9
 resourcetype: Other
 title: 2_dutoit_lec_96.zip
 uid: d9b358d4-4df0-8677-b91f-2145d1d6ad6b
