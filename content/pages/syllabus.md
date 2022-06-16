@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Syllabus section includes Prerequisite, and Description of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
