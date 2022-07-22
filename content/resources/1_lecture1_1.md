@@ -7,6 +7,7 @@ file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/427
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 1_lecture1_1.pdf
 uid: 427d070c-6867-4039-a8a8-6481cbd23e13
 ---
 This resource contains panafrican orogenic collapse by tectonic escape, naacoqrs depositionnaaqcoqrs, and collapse of appalachian mountains: rifts of ca.230 ma.
-

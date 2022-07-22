@@ -6,6 +6,7 @@ file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/e52
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 1_lecture1_3.pdf
 uid: e52c3928-df40-84b5-8707-00795992c6e6
 ---
 This resource contains the topic Controls on African Changed During the Past 34 Million Years.
-

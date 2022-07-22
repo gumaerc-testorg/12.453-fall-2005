@@ -6,6 +6,7 @@ file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/cc1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 9_south_atlantic.pdf
 uid: cc165e6a-2f82-1421-04f7-af36d3edcbfc
 ---
 This resource contains rifted and thinned continent with listric faults. 150-200 km wide, and great scarps are products of erosion during the past 30 My.
-

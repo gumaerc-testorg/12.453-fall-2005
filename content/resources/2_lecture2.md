@@ -6,6 +6,7 @@ file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/e04
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2_lecture2.pdf
 uid: e04f4ef7-5ad9-85a0-b6e9-ff0cf2bb3f84
 ---
 This resource contains how africa was assembled, newly assembled gondwana, and five hundred million years of mountain-building in senegal.
-

@@ -4,6 +4,7 @@ description: This resource contains 1_four_aces pdf file.
 file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/a887c2c3484ab6c16b37d5b006c6248b_1_four_aces.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: 1_four_aces.zip
 uid: a887c2c3-484a-b6c1-6b37-d5b006c6248b
 ---
 This resource contains 1_four_aces pdf file.
-

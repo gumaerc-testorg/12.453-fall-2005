@@ -6,6 +6,7 @@ file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/eca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 1_lecture1_2.pdf
 uid: ecaa8c9f-77b1-5db3-61c9-0c7b9b42594c
 ---
 This resource contains Africa fixed. LIPS where they were wrtAfricawhen erupted. Projected down to Core.
-

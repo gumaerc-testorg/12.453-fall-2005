@@ -6,6 +6,7 @@ file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/acf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 5_pan_afric_orog.pdf
 uid: acf3a7f0-55f1-302f-ac84-929f467eb67f
 ---
 This resource contains characteristics that help in identifying ancient suture zones and collision zones.
-

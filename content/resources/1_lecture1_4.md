@@ -5,6 +5,7 @@ file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/3e3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 1_lecture1_4.pdf
 uid: 3e3ae4a2-dbba-6efc-6040-f1ed9490352f
 ---
 This resource contains maps and graphs of physical africa.
-
