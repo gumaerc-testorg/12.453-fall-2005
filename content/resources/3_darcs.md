@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 1 _darcs pdf file.
 file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/25799d7ff6efab9d7533b1f4d7bf99d3_3_darcs.pdf
+file_size: 181854
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
