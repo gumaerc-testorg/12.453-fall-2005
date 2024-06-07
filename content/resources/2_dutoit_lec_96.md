@@ -5,6 +5,7 @@ description: The ZIP file contains a copy of the Alex L. du Toit Memorial Lectur
   99, Number 4, 1996). (Courtesy of The Geological Society of South Africa. Used with
   permission.)
 file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/d9b358d44df08677b91f2145d1d6ad6b_2_dutoit_lec_96.zip
+file_size: 11580303
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains niger delta, senegal delta, congo fan, and orange
   river delta.
 file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/528386fab84c8c6cdc75fe181d71c5fb_12_past_30my_p3.pdf
+file_size: 1560962
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
