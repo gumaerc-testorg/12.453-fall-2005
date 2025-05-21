@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains how africa was assembled, newly assembled gondwana,
   and five hundred million years of mountain-building in senegal.
-file: /ol-ocw-studio-app/courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/e04f4ef75ad985a0b6e9ff0cf2bb3f84_2_lecture2.pdf
+file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/e04f4ef75ad985a0b6e9ff0cf2bb3f84_2_lecture2.pdf
 file_size: 2084110
 file_type: application/pdf
 learning_resource_types:

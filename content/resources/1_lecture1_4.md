@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains maps and graphs of physical africa.
-file: /ol-ocw-studio-app/courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/3e3ae4a2dbba6efc6040f1ed9490352f_1_lecture1_4.pdf
+file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/3e3ae4a2dbba6efc6040f1ed9490352f_1_lecture1_4.pdf
 file_size: 2066480
 file_type: application/pdf
 learning_resource_types:
