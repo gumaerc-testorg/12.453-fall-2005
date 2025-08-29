@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains characteristics that help in identifying ancient
   suture zones and collision zones.
-file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/acf3a7f055f1302fac84929f467eb67f_5_pan_afric_orog.pdf
+file: /ol-ocw-studio-app/courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/acf3a7f055f1302fac84929f467eb67f_5_pan_afric_orog.pdf
 file_size: 649910
 file_type: application/pdf
 learning_resource_types:

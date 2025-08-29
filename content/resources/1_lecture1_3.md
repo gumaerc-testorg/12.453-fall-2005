@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the topic Controls on African Changed During the
   Past 34 Million Years.
-file: /courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/e52c3928df4084b5870700795992c6e6_1_lecture1_3.pdf
+file: /ol-ocw-studio-app/courses/12-453-crosby-lectures-in-geology-history-of-africa-fall-2005/e52c3928df4084b5870700795992c6e6_1_lecture1_3.pdf
 file_size: 2174149
 file_type: application/pdf
 learning_resource_types:
